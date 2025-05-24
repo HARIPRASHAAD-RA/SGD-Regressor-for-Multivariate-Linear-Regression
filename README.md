@@ -80,7 +80,7 @@ _=plt.scatter(y_test[0],y_pred[0])
 ```
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
+![image](https://github.com/user-attachments/assets/5c2d730d-124b-4bd7-a61a-bb1700c63903)
 
 
 ## Result:
